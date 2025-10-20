@@ -1,7 +1,7 @@
 # 🧠 Projeto flashcard 2025
 
 ## 🎯 Sobre o projeto
-Este projeto desenvolvido com objetivo de criar uma ferramenta de estudos baseada na tecnica de repetição espaçada.A ideia é fornecer uma plataforma limpa, intuitiuva e sem distrações. Seja para estudar para uma prova, aprender algo novo, ou memorizar algo.
+Este projeto desenvolvido com objetivo de criar uma ferramenta de estudos baseada na tecnica de repetição espaçada.A ideia é fornecer uma plataforma limpa, intuitiva e sem distrações. Seja para estudar para uma prova, aprender algo novo, ou memorizar algo.
 
 ## Como usar
 Após iniciar o projeto você pode:
